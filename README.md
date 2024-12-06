@@ -1,1 +1,1 @@
-# line-encoder-decoder
+About: This project demonstrates the implementation of various line encoding techniques and their decoders. These techniques are used in digital communication systems to ensure data integrity, synchronization, and security during transmission. The available encoding schemes include NRZ-L, NRZ-I, Manchester, Differential Manchester, AMI, and scrambling techniques such as B8ZS and HDB3.
